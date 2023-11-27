@@ -1,0 +1,33 @@
+﻿in the past#2\353#в прошлом
+in the distant past#2\354#в далёком прошлом
+in the recent past#2\355#в недалёком прошлом
+in the future#2\356#в будущем
+in the distant future#2\357#в далёком будущем
+in the 20th century#2\358#в 20 веке
+millenium#2\359#тысячелетие
+at the moment#2\360#в данный момент
+always#2\361#сейчас
+usually#2\362#обычно
+often#2\363#часто
+sometimes#2\364#иногда
+hardly ever#2\365#почти никогда
+never#2\366#никогда
+once (a week/a day)#2\367#один раз (в неделю/в день)
+twice (a day/a month)#2\368#дважды (в день/в месяц)
+three times (a day/a week/a month)#2\369#трижды, 3 раза (в день/в неделю/в месяц)
+tonight#2\370#сегодня вечером
+next (week/month)#2\371#на следующей (неделе / месяце)
+last (week/month)#2\372#на прошлой (неделе / месяце)
+every day#2\373#каждый день
+on time#2\374#точно вовремя
+half#2\375#половина
+quarter#2\376#четверть
+late#2\377#поздно
+early#2\378#рано
+the other day#2\379#на днях
+long ago#2\380#давно
+daily#2\381#ежедневно
+weekly#2\382#еженедельно
+monthly#2\383#ежемесячно
+annually#2\384#ежегодно
+decade#2\385#десятилетие

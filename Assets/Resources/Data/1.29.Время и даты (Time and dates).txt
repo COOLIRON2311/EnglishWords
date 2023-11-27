@@ -1,0 +1,20 @@
+﻿time#1\231#время
+at Christmas#1\232#на Рождество
+yesterday#1\233#вчера
+today#1\234#сегодня
+tomorrow#1\235#завтра
+in the morning#1\236#утром
+in the afternoon#1\237#днем
+in the evening#1\238#вечером
+at night#1\239#ночью
+52 weeks#1\240#52 недели
+day#1\241#день
+all day long#1\242#весь день напролёт
+7 days#1\243#7 дней
+7 days a week#1\244#7 дней в неделю
+24 hours#1\245#24 часа
+in 24 hours#1\246#через 24 часа
+60 minutes#1\247#60 минут
+100 years#1\248#100 лет
+12 months#1\249#12 месяцев
+60 seconds#1\250#60 секунд

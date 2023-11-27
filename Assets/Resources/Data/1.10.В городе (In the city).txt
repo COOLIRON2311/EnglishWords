@@ -1,0 +1,11 @@
+﻿at school#1\279#в школе
+at the factory#1\280#на фабрике, на заводе
+at the hotel#1\281#в отеле
+at the train station#1\282#на железнодорожном вокзале
+in hospital#1\283#в больнице
+at the airport#1\284#в аэропорту
+in the castle#1\285#в замке
+in the downtown#1\286#в центре города
+in the house#1\287#в доме
+in the museum#1\288#в музее
+in the shopping centre#1\289#в торговом центре

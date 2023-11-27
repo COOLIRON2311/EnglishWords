@@ -1,0 +1,20 @@
+﻿a bag of shopping#4\224#сумка с покупками
+a barrel of beer#4\225#бочка пива
+a basket of fruit#4\226#корзинка фруктов
+a bottle of wine#4\227#бутылка вина
+a bowl of soup#4\228#тарелка супа
+a box of tools#4\229#ящик с инструментами
+a bucket of water#4\230#ведро воды
+a can of drink#4\231#баночка с напитком
+a carton of milk#4\232#упаковка молока
+a crate of bottles#4\233#ящик с бутылками
+a cup of coffee#4\234#чашка кофе
+a glass of juice#4\235#стакан сока
+a jar of honey#4\236#банка меда
+a mug of tea#4\237#кружка чая
+a pack of cigarettes#4\238#пачка сигарет
+a sachet of sugar#4\239#пакетик сахара
+a sack of flour#4\240#мешок муки
+a tin of beans#4\241#металлическая банка с бобами
+a tub of ice-cream#4\242#пластиковая упаковка мороженного
+a tube of toothpaste#4\243#тюбик зубной пасты

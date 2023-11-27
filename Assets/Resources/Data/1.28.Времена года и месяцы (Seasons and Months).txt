@@ -1,0 +1,17 @@
+﻿season#1\214#время года; сезон
+in winter#1\215#зимой
+in spring#1\216#весной
+in summer#1\217#летом
+in autumn#1\218#осенью
+in January#1\219#в январе
+in February#1\220#в феврале
+in March#1\221#в марте
+in April#1\222#в апреле
+in May#1\223#в мае
+in June#1\224#в июне
+in July#1\225#в июле
+in August#1\226#в августе
+in September#1\227#в сентябре
+in October#1\228#в октябре
+in November#1\229#в ноябре
+in December#1\230#в декабре

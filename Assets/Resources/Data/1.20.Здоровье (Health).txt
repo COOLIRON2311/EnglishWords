@@ -1,0 +1,10 @@
+﻿health#1\485#здоровье
+(I have) a backache#1\486#(у меня) болит спина
+(I have) a cold#1\487#(у меня) простуда
+(I have) a cough#1\488#(у меня) кашель
+(I have) a headache#1\489#(у меня) болит голова
+(I have) a sore throat#1\490#(у меня) воспалено горло
+(I have) a stomach-ache#1\491#(у меня) болит живот
+(I have) a toothache#1\492#(у меня) болят зубы
+(I have) an earache#1\493#(у меня) болит ухо
+(I have) the flu#1\494#(у меня) грипп

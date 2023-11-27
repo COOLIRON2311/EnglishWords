@@ -1,0 +1,13 @@
+﻿zodiac sign#1\537#знак зодиака
+Aquarius#1\538#Водолей
+Pisces#1\539#Рыбы
+Aries#1\540#Овен
+Taurus#1\541#Телец
+Gemini#1\542#Близнецы
+Cancer#1\543#Рак
+Leo#1\544#Лев
+Virgo#1\545#Дева
+Libra#1\546#Весы
+Scorpio#1\547#Скорпион
+Sagittarius#1\548#Стрелец
+Capricorn#1\549#Козерог

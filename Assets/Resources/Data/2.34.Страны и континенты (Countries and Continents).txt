@@ -1,0 +1,19 @@
+﻿Africa#2\828#Африка
+Australia#2\829#Австралия
+Belgium#2\830#Бельгия
+Britain#2\831#Британия
+Canada#2\832#Канада
+Chile#2\833#Чили
+Columbia#2\834#Колумбия
+Czech Republic#2\835#Чехия
+Denmark#2\836#Дания
+Finland#2\837#Финляндия
+Holland#2\838#Голландия
+Ireland#2\839#Ирландия
+Latvia#2\840#Латвия
+Mexico#2\841#Мексика
+Norway#2\842#Норвегия
+Peru#2\843#Перу
+Poland#2\844#Польша
+Sweden#2\845#Швеция
+Switzerland#2\846#Швейцария

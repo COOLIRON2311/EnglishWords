@@ -1,0 +1,23 @@
+﻿ride (my) bike#3\427#ехать на велосипеде
+ride the train#3\428#ехать на поезде
+ride the horse#3\429#ездить верхом
+drive home#3\430#ехать (на машине) домой
+drive (from … to …)#3\431#ехать (на машине из … в …)
+drive the bus#3\432#водить автобус
+fly the plane#3\433#управлять самолётом
+catch the bus#3\434#сесть на автобус
+catch the train#3\435#сесть на поезд
+miss the bus#3\436#опоздать на автобус
+miss the train#3\437#опоздать на поезд
+take the subway#3\438#ехать на метро
+take the taxi#3\439#ехать на такси
+cancel#3\440#отменить
+change at …#3\441#сделать пересадку в/на …
+a delay (of 20 minutes)#3\442#задержка (на 20 минут)
+without a delay#3\443#без задержек
+get off the bus#3\444#выйти из автобуса
+get on the bus#3\445#сесть в автобус
+leave the harbour#3\446#выйти из порта
+leave for …#3\447#отправиться в …
+a shortcut to …#3\448#короткий путь в/до …
+take a shortcut to …#3\449#пойти коротким путём; срезать

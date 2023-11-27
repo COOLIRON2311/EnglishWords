@@ -1,0 +1,22 @@
+﻿argument#3\629#спор
+attract (her) attention#3\630#привлечь (её) внимание
+pay attention (to)#3\631#обращать внимание (на)
+behaviour#3\632#поведение
+character#3\633#характер
+couple (of minutes/people)#3\634#пара (минут/людей)
+in defence#3\635#в защиту; защищаясь
+on demand#3\636#по требованию; по необходимости
+difficulty#3\637#проблема; сложность
+in doubt#3\638#в сомнении
+environment#3\639#окружающая среда
+opportunity (for)#3\640#возможность (для)
+miss the opportunity#3\641#упустить возможность
+function#3\642#назначение, функция
+growth#3\643#рост; развитие
+provision#3\644#резерв; запас
+make provision (for)#3\645#подготовиться (к)
+resources#3\646#ресурсы, средства
+science#3\647#наука
+statement#3\648#заявление, утверждение
+step#3\649#шаг
+(special) treatment#3\650#(особое) обращение

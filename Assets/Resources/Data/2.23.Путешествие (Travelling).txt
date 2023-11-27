@@ -1,0 +1,15 @@
+﻿go abroad#2\386#поехать заграницу
+go camping#2\387#пойти в поход
+go on holiday#2\388#поехать в отпуск
+go sightseeing#2\389#осматривать достопримечательности
+have a good time#2\390#хорошо провести время
+learn a foreign language#2\391#изучать иностранный язык
+learn English#2\392#изучать английский
+rent a car#2\393#арендовать машину
+spend money#2\394#тратить деньги
+stay in a hotel#2\395#остановиться в гостинице
+sunbathe#2\396#загорать
+swim in the pool#2\397#плавать в бассейне
+take pictures (of…)#2\398#фотографировать (что-л.)
+taste local food#2\399#пробовать местную пищу
+visit museums#2\400#ходить, посещать музеи

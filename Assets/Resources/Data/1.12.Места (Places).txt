@@ -1,0 +1,17 @@
+﻿in the capital#1\592#в столице
+in the city#1\593#в городе
+in the field#1\594#в поле
+on the island#1\595#на острове
+a plot of land#1\596#участок, клочок земли
+in the mountains#1\597#в горах
+in the ocean#1\598#в океане
+in the park#1\599#в парке
+at a crowded place#1\600#в многолюдном месте
+in the river#1\601#в реке
+in the sea#1\602#в море
+in the square#1\603#на площади
+in the street#1\604#на улице
+in the village#1\605#в деревне
+in the countryside#1\606#в сельской местности
+in the flat#1\607#в квартире
+in the house#1\608#в доме

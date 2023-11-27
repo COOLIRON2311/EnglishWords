@@ -1,0 +1,25 @@
+﻿arrive at work#2\59#прибывать на работу
+bake the cake#2\60#печь торт
+clean the house#2\61#убирать дом
+clean the windows#2\62#мыть окна
+cook#2\63#готовить (пищу)
+decorate the flat#2\64#делать ремонт в квартире
+do nothing#2\65#ничего не делать
+do the homework#2\66#делать домашнее задание
+do the housework#2\67#делать работу по дому
+do the laundry#2\68#стирать
+do the washing-up#2\69#мыть посуду
+drive to work#2\70#ехать (на машине) на работу
+go to sleep#2\71#пойти спать
+take a bath#2\72#принимать ванну
+have a break#2\73#сделать перерыв
+hoover#2\74#пылесосить
+invite friends (around)#2\75#приглашать друзей (к себе)
+iron#2\76#гладить
+lay the table#2\77#накрывать на стол
+make the bed#2\78#заправлять кровать
+tidy up#2\79#наводить порядок
+use the Internet#2\80#пользоваться интернетом
+walk the dog#2\81#гулять с собакой
+take a walk#2\82#выйти на прогулку
+take out the garbage#2\83#выносить мусор

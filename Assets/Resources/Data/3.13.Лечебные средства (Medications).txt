@@ -1,0 +1,19 @@
+﻿put the bandage (on)#3\817#наложить повязку (на)
+cotton wool#3\818#вата
+follow the directions#3\819#следовать указаниям
+dropper#3\820#пипетка
+drops#3\821#капли
+wear glasses#3\822#носить очки
+take medicine#3\823#принимать лекарство
+painkillers#3\824#болеутоляющее
+paracetamol#3\825#парацетамол
+plaster#3\826#пластырь
+powder#3\827#порошок
+prescription (for)#3\828#рецепт (на)
+sedative#3\829#успокаивающее
+sleeping pills#3\830#снотворное
+syringe#3\831#шприц
+tablespoonful#3\832#принимать по столовой ложке
+teaspoonful#3\833#принимать по чайной ложке
+thermometer#3\834#градусник
+take vitamins#3\835#принимать витамины

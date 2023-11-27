@@ -1,0 +1,23 @@
+﻿achievement#4\508#достижение
+comparison (make a ~)#4\509#сравнение (сделать; провести ~)
+maintain discipline#4\510#поддерживать дисциплину
+distinction (make a ~)#4\511#различие (разделять; отличать)
+exception (make an ~)#4\512#исключение (сделать ~)
+live up to (my) expectations#4\513#оправдать (мои) ожидания
+fall short of (my) expectations#4\514#не оправдать (моих) ожиданий
+fashion (come into ~; go out of ~)#4\515#мода (войти в ~; выйти из ~)
+electricity#4\516#электричество
+impression (make an ~)#4\517#впечатление (произвести ~)
+independence#4\518#независимость
+accept liability (for)#4\519#принимать ответственность (за)
+deny liability (for)#4\520#отрицать ответственность (за)
+negotiation (in ~)#4\521#переговоры (в процессе ~)
+origin#4\522#начало, источник
+outcome#4\523#результат
+request (make a ~)#4\524#требование (потребовать)
+significance#4\525#важность, значительность; значимость
+go on strike#4\526#объявить забастовку
+transaction (make a ~)#4\527#сделка; операция (провести ~)
+trend (for)#4\528#направление; тенденция (к)
+follow the trend#4\529#следовать тенденции
+admission (to)#4\530#приём (в учебное заведение, клуб); доступ (к)

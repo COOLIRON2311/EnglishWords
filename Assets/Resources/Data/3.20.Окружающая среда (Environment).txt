@@ -1,0 +1,25 @@
+﻿acid rains#3\987#кислотные дожди
+chop down#3\988#вырубать (леса)
+affect climate#3\989#влиять на климат
+living creatures#3\990#живые существа
+die of cancer#3\991#умирать от рака
+severe flood#3\992#жестокое наводнение
+a gloomy forecast#3\993#мрачный прогноз
+combat global warming#3\994#бороться с глобальным потеплением
+inhabit Earth#3\995#населять Землю
+life-expectancy#3\996#продолжительность жизни
+melt#3\997#таять
+nuclear energy#3\998#ядерная энергия
+pollute#3\999#загрязнять
+fight pollution#3\1000#бороться с загрязнением
+cause pollution#3\1001#причинять загрязнение
+cut down rain forests#3\1002#вырубать тропические леса
+soil#3\1003#почва
+extinct species#3\1004#вымирающие виды животных
+face starvation#3\1005#столкнуться с голодом
+survive#3\1006#выживать
+survive the drought#3\1007#пережить засуху
+unpolluted#3\1008#незагрязненный
+take urgent actions#3\1009#принимать срочные меры
+hazardous waste#3\1010#опасные отходы
+reduce waste#3\1011#снижать выбросы, отходы

@@ -1,0 +1,24 @@
+﻿eat#2\804#есть; кушать
+drink#2\805#пить
+chew#2\806#жевать
+sip#2\807#потягивать (напиток)
+cut#2\808#резать; отрезать
+eat with chopsticks#2\809#есть палочками
+bite#2\810#откусить
+meal#2\811#еда; пища; блюдо
+order a starter#2\812#заказать первое блюдо
+for the starter#2\813#на «первое»
+for the main course#2\814#на «второе»
+for dessert#2\815#на десерт
+side dish#2\816#гарнир
+napkin#2\817#салфетка
+pass the salt#2\818#передать соль
+put some pepper (on)#2\819#посыпать перцем (что-л.)
+vinegar#2\820#пищевой уксус
+olive oil#2\821#оливковое масло
+try#2\822#попробовать (что-л.)
+eat with (your) hands#2\823#есть руками
+take sugar in (your) coffee#2\824#положить сахар в кофе
+propose a toast#2\825#предложить тост
+local speciality#2\826#местное блюдо
+the dish of the day#2\827#блюдо дня

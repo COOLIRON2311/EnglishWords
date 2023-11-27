@@ -1,0 +1,25 @@
+﻿relatives#2\401#родственники
+uncle#2\402#дядя
+aunt#2\403#тётя
+cousin#2\404#двоюродный брат/сестра
+nephew#2\405#племянник
+niece#2\406#племянница
+a distant relative#2\407#далёкий родственник
+adopt a child#2\408#усыновить/удочерить ребёнка
+an only child#2\409#единственный ребёнок
+ancestors#2\410#предки
+fiancee#2\411#невеста
+generation#2\412#поколение
+have triplets#2\413#родить тройню
+kids#2\414#дети
+orphan#2\415#сирота
+single-parent family#2\416#неполная семья
+stepfather#2\417#отчим
+stepmother#2\418#мачеха
+twins#2\419#двойня
+(my) best friend#2\420#(мой) лучший друг
+mutual friends#2\421#общие друзья
+classmates#2\422#одноклассники
+flatmates#2\423#соседи по квартире/комнате
+buddy#2\424#приятель; друг
+spouse#2\425#супруг/супруга

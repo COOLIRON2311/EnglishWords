@@ -1,0 +1,19 @@
+﻿team#3\164#команда
+spectators#3\165#зрители
+champion#3\166#чемпион
+runner-up#3\167#занявший второе место
+face rivals#3\168#встретиться с противниками
+beat rivals#3\169#победить противников
+referee#3\170#рефери
+captain#3\171#капитан команды
+winner#3\172#победитель
+send in a substitute#3\173#выставить замену
+professional player#3\174#профессиональный игрок
+win the competition#3\175#выиграть соревнование
+match#3\176#матч
+race#3\177#гонка
+tournament#3\178#турнир
+game#3\179#игра
+championship#3\180#чемпионат
+in the final#3\181#в финале
+in the semi-final#3\182#в полуфинале

@@ -1,0 +1,20 @@
+﻿potatoes#1\393#картофель
+bananas#1\394#бананы
+beans#1\395#бобы
+carrot#1\396#морковь
+cucumbers#1\397#огурцы
+some fruit#1\398#фрукты
+garlic#1\399#чеснок
+grapes#1\400#виноград
+melon#1\401#дыня
+mushrooms#1\402#грибы
+onion#1\403#лук
+oranges#1\404#апельсины
+pears#1\405#груши
+pineapple#1\406#ананас
+plums#1\407#сливы
+apples#1\408#яблоки
+strawberries#1\409#клубника
+tomatoes#1\410#помидоры
+vegetables#1\411#овощи
+watermelon#1\412#арбуз

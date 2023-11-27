@@ -1,0 +1,15 @@
+﻿check in#2\549#въехать; заселиться
+check out#2\550#выехать из гостиницы
+book a room#2\551#заказать комнату
+fill in the form#2\552#заполнить анкету
+pay the bill#2\553#оплачивать счет
+pay cash#2\554#наличными
+by credit card#2\555#кредитной карточкой
+reserve#2\556#бронировать
+reservation#2\557#бронь, заказ
+confirmation#2\558#подтверждение
+receipt#2\559#квитанция
+check-out time#2\560#расчетный час
+on departure#2\561#при отъезде
+on arrival#2\562#по прибытии
+in advance#2\563#заранее

@@ -1,0 +1,33 @@
+﻿place advertisement#4\79#размещать рекламу
+pass on some advice#4\80#дать совет
+ask for advice#4\81#спросить совет
+follow (his) advice#4\82#последовать (его) совету
+negotiate a deal#4\83#обсуждать сделку
+sign a deal#4\84#подписать контракт
+reject a deal#4\85#отказаться от сделки; от контракта
+accumulate debts#4\86#накапливать долги
+pay off (his) debts#4\87#расплатиться с (его) долгами
+do the delivery#4\88#осуществлять доставку
+demand (for)#4\89#спрос (на)
+offer you a discount#4\90#предложить (вам) скидку
+discount (of 10%)#4\91#скидка (в 10%)
+attend the exhibition#4\92#посетить выставку
+suffer a huge loss#4\93#понести огромный убыток
+loss#4\94#убыток
+start negotiation#4\95#начать переговоры
+under negotiation#4\96#(что-л.) в процессе переговоров
+make payment#4\97#совершить; сделать платёж
+accept payment#4\98#принимать платёж; платежи
+delay payment#4\99#отложить платёж
+generate profit#4\100#зарабатывать; приносить прибыль
+quality#4\101#качество
+sufficient quantity#4\102#достаточное количество
+quantity#4\103#количество
+utterly reliable#4\104#крайне надёжный
+meet (your) requirements#4\105#соответствовать (вашим) требованиям
+exceed requirements#4\106#превосходить; превышать требования
+violate requirements#4\107#нарушать требования
+gross turnover#4\108#валовой оборот
+annual turnover#4\109#годовой оборот
+unemployment rate#4\110#уровень безработицы
+unemployment#4\111#безработица

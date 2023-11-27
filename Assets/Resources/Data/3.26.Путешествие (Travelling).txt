@@ -1,0 +1,18 @@
+﻿arrive at the hotel#3\409#прибыть в гостиницу
+arrive in London#3\410#прибыть в Лондон
+at the campsite#3\411#в палаточном лагере
+depart (from)#3\412#отправляться (из/от)
+reach (your) destination#3\413#достичь (своего) пункта назначения
+for a fortnight#3\414#на 2 недели
+get a tan#3\415#загореть
+go to the seaside#3\416#поехать к морю
+have a picnic#3\417#устроить пикник
+head for#3\418#направляться в/к
+hitchhike#3\419#путешествовать автостопом
+take out insurance#3\420#взять страховку
+detailed itinerary#3\421#подробная программа поездки
+package tour#3\422#турпакет; турпутёвка
+put up a tent#3\423#ставить палатку
+set off (for)#3\424#отправляться (в/к)
+on a business trip#3\425#в командировке
+trip#3\426#поездка; путешествие

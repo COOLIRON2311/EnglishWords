@@ -1,0 +1,29 @@
+﻿arrivals#3\450#прибытия
+the late arrival (of)#3\451#позднее прибытие
+departures#3\452#отправления
+in the departure lounge#3\453#в зале ожидания
+a flight (to)#3\454#рейс (в/до)
+catch the flight (to)#3\455#взять рейс (до)
+during the flight#3\456#во время рейса
+cancelled#3\457#отменен
+delayed#3\458#отложен
+entrance#3\459#вход
+exit#3\460#выход
+head for the exit#3\461#направляться к выходу
+an exit (to)#3\462#выход в /на …
+an aisle seat#3\463#место у прохода
+a window seat#3\464#место у окна
+at the check-in#3\465#регистрация
+confirm#3\466#подтвердить
+land#3\467#приземляться
+reservation#3\468#бронирование
+make a reservation#3\469#забронировать
+take off#3\470#взлетать
+during the take-off#3\471#во время взлёта
+pay for excess baggage#3\472#заплатить за избыточный багаж
+gate#3\473#выход на посадку
+show the boarding pass#3\474#показать посадочную карточку
+flexible#3\475#гибкий
+unattended baggage#3\476#оставленный без присмотра багаж
+at the customs#3\477#на таможне
+go through the customs#3\478#пройти таможню

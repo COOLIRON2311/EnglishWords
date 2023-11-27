@@ -1,0 +1,19 @@
+﻿firefighter#2\587#пожарный
+hairdresser#2\588#парикмахер
+nurse#2\589#медицинская сестра
+security guard#2\590#охранник
+shop assistant#2\591#продавец, торговец
+worker#2\592#рабочий
+accountant#2\593#бухгалтер
+artist#2\594#художник
+engineer#2\595#инженер
+babysitter#2\596#няня
+bricklayer#2\597#каменщик
+carpenter#2\598#плотник
+chambermaid#2\599#горничная
+cleaner#2\600#уборщица
+labourer#2\601#подсобный рабочий
+plumber#2\602#водопроводчик
+welder#2\603#сварщик
+electrician#2\604#электрик
+operative#2\605#работник конвейера

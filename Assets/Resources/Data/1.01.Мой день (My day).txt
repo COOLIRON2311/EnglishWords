@@ -1,0 +1,16 @@
+﻿wake up#1\263#проснуться
+get up#1\264#встать с кровати
+have a shower#1\265#принять душ
+have breakfast#1\266#завтракать
+go to work#1\267#пойти на работу
+go for a walk#1\268#пойти на прогулку
+have lunch#1\269#обедать
+go shopping#1\270#ходить по магазинам
+come home#1\271#прийти домой
+cook dinner#1\272#готовить ужин
+have dinner#1\273#ужинать
+listen to the radio#1\274#слушать радио
+wash the dishes#1\275#мыть посуду
+watch TV#1\276#смотреть телевизор
+take a hot bath#1\277#принять горячую ванну
+go to bed#1\278#пойти спать

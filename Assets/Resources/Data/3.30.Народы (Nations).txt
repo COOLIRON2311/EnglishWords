@@ -1,0 +1,13 @@
+﻿Briton#3\940#британец
+Dutchman#3\941#голландец
+Dutchwoman#3\942#голландка
+Finn#3\943#финн
+Frenchman#3\944#француз
+Frenchwoman#3\945#француженка
+Irishman#3\946#ирландец
+Irishwoman#3\947#ирландка
+New Zealander#3\948#новозеландец
+Pole#3\949#поляк
+Scot#3\950#шотландец
+Spaniard#3\951#испанец
+Swede#3\952#швед

@@ -1,0 +1,16 @@
+﻿catch the ball#4\159#поймать мяч
+head the ball#4\160#ударить мяч головой
+kick the ball#4\161#ударить мяч ногой
+pass the ball#4\162#передать мяч
+throw the ball#4\163#бросить мяч
+score a goal#4\164#забить гол
+miss a penalty#4\165#пропустить пенальти
+strike a penalty#4\166#пробить пенальти
+serve an ace#4\167#сделать подачу
+finish in a draw#4\168#закончить вничью
+take the lead#4\169#идти впереди
+beat your rival#4\170#победить (своих) противников
+break the record#4\171#побить рекорд
+compete#4\172#соревноваться
+win on points#4\173#выиграть по очкам
+lose on points#4\174#проиграть по очкам

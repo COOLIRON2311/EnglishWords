@@ -1,0 +1,36 @@
+﻿foreign language#2\911#иностранный язык
+learn#2\912#изучать
+learn English grammar#2\913#изучать английскую грамматику
+grammar rules#2\914#грамматические правила
+build your vocabulary#2\915#пополнять; «строить» свой словарный запас
+vocabulary#2\916#словарный запас
+revise#2\917#повторять (изученный материал)
+make the wordlist#2\918#составлять список слов
+exercise#2\919#упражнение
+fluent English#2\920#«беглый» английский
+speak fluently#2\921#говорить «бегло»
+listen to#2\922#слушать (что-л.)
+write#2\923#писать
+understand#2\924#понимать
+read#2\925#читать
+familiar#2\926#знакомый
+unfamiliar#2\927#незнакомый
+mix up#2\928#перепутать
+remember#2\929#помнить
+memorise#2\930#запоминать; зазубривать
+words#2\931#слова
+phrases#2\932#фразы
+sentence#2\933#предложение
+dictionary#2\934#словарь
+check#2\935#проверить
+translate (from … to …)#2\936#переводить (с … на …)
+repeat#2\937#повторять (сказанное)
+master my English#2\938#совершенствовать свой английский
+pronunciation#2\939#произношение
+foreign accent#2\940#иностранный акцент
+strong accent#2\941#сильный акцент
+speak with an accent#2\942#говорить с акцентом
+do an English course#2\943#пройти курс английского
+native language#2\944#родной язык
+pronounce#2\945#произносить
+practise#2\946#практиковать; практиковаться

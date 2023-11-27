@@ -1,0 +1,12 @@
+﻿on Monday#1\251#в понедельник
+on Tuesday#1\252#во вторник
+on Wednesday#1\253#в среду
+on Thursday#1\254#в четверг
+on Friday#1\255#в пятницу
+on Saturday#1\256#в субботу
+on Sunday#1\257#в воскресенье
+on Fridays#1\258#по пятницам
+on the weekend#1\259#на выходных
+on weekdays#1\260#по будням; на неделе
+on New Year’s Eve#1\261#в новогоднюю ночь
+on New Year’s Day#1\262#в новогодний день

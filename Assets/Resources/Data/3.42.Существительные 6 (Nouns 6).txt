@@ -1,0 +1,33 @@
+﻿have an accident#3\703#попасть в аварию
+survive the accident#3\704#выжить после аварии; пережить аварию
+recover from the accident#3\705#поправиться после аварии
+consequences (for)#3\706#последствия (для)
+take … into consideration#3\707#принимать … в расчёт
+for your consideration#3\708#для вашего рассмотрения
+cause damage (to)#3\709#причинять ущерб/вред (чему-л.)
+escape the danger#3\710#избежать опасности
+in danger (of)#3\711#в опасности (чего-л.)
+out of danger#3\712#вне опасности
+distance (from … to …)#3\713#расстояние (от … до …)
+from a distance#3\714#на расстоянии
+in the distance#3\715#вдалеке
+within walking distance#3\716#можно дойти пешком
+without expression#3\717#без эмоций; без выражения
+failure#3\718#неудача
+hope (for)#3\719#надежда (на)
+lose hope#3\720#утратить надежду
+on the island#3\721#на острове
+desert island#3\722#необитаемый остров
+reason (for)#3\723#причина (чего-л.)
+within reason#3\724#в пределах разумного
+presence#3\725#присутствие
+out of proportion#3\726#непропорционально
+under the protection (of)#3\727#под охраной
+safety#3\728#безопасность
+for your own safety#3\729#для вашей безопасности
+at full speed#3\730#на полной скорости
+strength#3\731#сила, мощь
+supply#3\732#запас
+achievable target#3\733#достижимая цель
+reach the target#3\734#достичь цели
+truth#3\735#правда, истина

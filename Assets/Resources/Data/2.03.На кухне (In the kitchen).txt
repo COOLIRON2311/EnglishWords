@@ -1,0 +1,27 @@
+﻿in the fridge#2\620#в холодильнике
+in the oven#2\621#в духовке
+on the stove#2\622#на плите
+boil the kettle#2\623#вскипятить чайник
+heat the pan#2\624#нагреть сковороду
+sauce pan#2\625#кастрюля
+dish#2\626#блюдо
+fork#2\627#вилка
+spoon#2\628#ложка
+fill the cup#2\629#наполнить чашку
+mug#2\630#кружка
+use the knife#2\631#пользоваться ножом
+bowl#2\632#глубокая тарелка
+in the kitchen#2\633#на кухне
+on the chair#2\634#на стуле
+coffee maker#2\635#кофеварка
+dishwasher#2\636#посудомоечная машина
+in the freezer#2\637#в морозильнике
+put it in the microwave#2\638#поставит в микроволновку
+on the shelf#2\639#на полке
+in the sink#2\640#в раковине
+in the waste bin#2\641#в мусорной корзине
+foil#2\647#фольга
+cling film#2\648#пищевая плёнка
+corkscrew#2\649#штопор
+tin opener#2\650#открывалка
+worktop#2\651#рабочая поверхность; столешница

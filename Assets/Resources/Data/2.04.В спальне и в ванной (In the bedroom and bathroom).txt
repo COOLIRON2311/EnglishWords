@@ -1,0 +1,11 @@
+﻿pillow#2\652#подушка
+duvet#одеяло
+alarm clock#2\654#будильник
+closet#2\655#кладовка
+mirror#2\656#зеркало
+shower#2\657#душ
+in the bath#2\642#в ванне
+on the mat#2\643#на коврике
+stand on scale#2\644#встать на весы
+turn the tap#2\645#повернуть кран
+in the washing machine#2\646#в стиральной машине

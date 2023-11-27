@@ -1,0 +1,13 @@
+﻿at the desk#1\73#за столом, за партой
+grab a pen#1\74#взять ручку
+in the bookcase#1\75#в книжном шкафу
+in the textbook#1\76#в учебнике
+mix paint#1\77#смешать краску
+on the board#1\78#на доске
+on the map#1\79#на карте
+on the poster#1\80#на плакате
+some paper#1\81#бумага
+take a ruler#1\82#взять линейку
+use scissors#1\83#пользоваться ножницами
+use the eraser#1\84#пользоваться резинкой
+write in pencil#1\85#писать карандашом

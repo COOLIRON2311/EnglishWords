@@ -1,0 +1,24 @@
+﻿in the car park#2\84#на парковке
+at the embassy#2\85#в посольстве
+at kindergarten#2\86#в детском саду
+at the market#2\87#на рынке
+monument#2\88#памятник
+in the park#2\89#в парке
+along the pavement#2\90#по тротуару
+on the road#2\91#на дороге
+along the road#2\92#по дороге
+in the square#2\93#на площади
+along the street#2\94#по улице
+in the street#2\95#на улице
+in the suburbs#2\96#в пригороде
+at the subway station#2\97#на станции метро
+in the theatre#2\98#в театре
+tower#2\99#башня
+town hall#2\100#ратуша
+at the traffic lights#2\101#у светофоров
+at university#2\102#в университете
+viewpoint#2\103#смотровая площадка
+in the library#2\104#в библиотеке
+ask for directions#2\105#спрашивать направление/дорогу
+give (me) directions to …#2\106#объяснить (мне) дорогу до …
+in the downtown#2\107#в центре города

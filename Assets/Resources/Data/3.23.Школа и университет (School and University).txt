@@ -1,0 +1,21 @@
+﻿higher education#3\388#высшее образование
+complete (his) education#3\389#завершить, закончить (своё) образование
+take the exam#3\390#сдавать экзамен
+pass the exam#3\391#сдать экзамен
+fail the exam#3\392#«завалить» экзамен
+improve (my) skills#3\393#улучшить (свои) навыки
+develop (my) skills#3\394#развивать (свои) навыки
+enter the university#3\395#поступить в университет
+finish school#3\396#закончить школу
+graduate from university#3\397#закончить университет
+gain some experience#3\398#приобрести опыт
+pay attention (to)#3\399#обратить внимание (на)
+concentrate (on)#3\400#сконцентрироваться (на)
+enrol on the course#3\401#записаться на курс
+attend classes#3\402#посещать занятия
+miss classes#3\403#пропускать занятия
+get good marks#3\404#получать хорошие оценки
+a mark (for)#3\405#оценка (за)
+do homework#3\406#делать домашнее задание
+do well (in)#3\407#успевать, делать успехи (в)
+fee#3\408#плата за учёбу

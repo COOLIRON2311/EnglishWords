@@ -1,0 +1,22 @@
+﻿provide alibi (for)#4\202#предоставить алиби (для)
+grant an amnesty (to)#4\203#объявит амнистию (для)
+grant (him) bail#4\204#выпустить (его) под залог
+capital punishment#4\205#смертная казнь
+corporal punishment#4\206#телесные наказания
+collect evidence#4\207#собирать доказательства
+suspend execution#4\208#отложить казнь
+await execution#4\209#ожидать казнь
+in custody#4\210#в заключении, под арестом
+escape justice#4\211#избежать правосудия
+bring (him) to justice#4\212#отдать (его) в руки правосудия
+a law-abiding citizen#4\213#законопослушней гражданин
+go to prison#4\214#отправится в тюрьму
+deserve punishment#4\215#заслужить наказание
+suffer punishment#4\216#понести наказание
+a suspect#4\217#подозреваемый
+suspended sentence#4\218#условное наказание
+give testimony#4\219#давать показания в суде
+come to trial#4\220#пойти под суд
+await trial#4\221#в ожидании суда
+bring (her) to trial#4\222#отдать (её) под суд
+offender#4\223#преступник, правонарушитель

@@ -1,0 +1,20 @@
+﻿(I) have a break#3\112#(у меня) перерыв
+(they) have a class#3\113#(у них) занятия
+(I) have a cold#3\114#(я) простужен
+(I) have a cup of coffee#3\115#(я) пью чашку кофе
+(I) have a date#3\116#(у меня) свидание
+(I) have a drink#3\117#(я) беру, выпиваю напиток
+(I) have a good time#3\118#(я) хорошо провожу время
+(I) have a headache#3\119#(у меня) болит голова
+(I) have a meal#3\120#(я) ем
+(they) have a meeting#3\121#(у них) встреча
+(we) have a party#3\122#(у нас) вечеринка
+(I) have a snack#3\123#(я) легко поел; перекусил
+(I) have an appointment#3\124#(у меня) назначена встреча
+(they) have an argument#3\125#(у них) ссора; конфликт
+(I) have breakfast#3\126#(я) завтракаю
+(they) have dinner#3\127#(они) ужинают
+(I) have flu#3\128#(у меня) грипп
+(they) have lunch#3\129#(они) обедают
+(I) have the exam#3\130#(у меня) экзамен
+(they) have trouble#3\131#(у них) неприятности; проблемы

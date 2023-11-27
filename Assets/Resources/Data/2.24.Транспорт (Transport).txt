@@ -1,0 +1,21 @@
+﻿the bus fare#2\443#плата за проезд
+pay the full fare#2\444#платись полную стоимость
+by boat#2\445#(поплыть) на лодке
+by helicopter#2\446#(полететь) на вертолёте
+by ship#2\447#(поплыть) на корабле
+by taxi#2\448#(поехать) на такси
+by underground#2\449#(поехать) на метро
+embark (on)#2\450#садиться на корабль
+receive a fine (for)#2\451#получить штраф (за)
+packed#2\452#переполненный; забитый
+passengers (for London)#2\453#пассажиры (до Лондона)
+jump the queue#2\454#проскочить без очереди
+join the queue#2\455#встать в очередь
+wait in the queue#2\456#ждать в очереди
+during the rush-hour#2\457#в час пик
+according to the timetable#2\458#по расписанию
+in the timetable#2\459#в расписании
+train timetable#2\460#расписание поездов
+a one-way ticket#2\461#билет в один конец
+a return ticket#2\462#обратный билет; билет в оба конца
+a valid ticket#2\463#действующий билет

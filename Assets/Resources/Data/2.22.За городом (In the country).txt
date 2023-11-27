@@ -1,0 +1,13 @@
+﻿in the countryside#2\108#в сельской местности
+in the town#2\109#в городе
+in the village#2\110#в деревне
+on the farm#2\111#на ферме
+on the island#2\112#на острове
+in the field#2\113#в поле
+in the mountains#2\114#в горах
+in the forest#2\115#в лесу
+in the lake#2\116#в озере
+in the river#2\117#в реке
+along the path#2\118#по тропинке
+wildlife#2\119#живая природа
+in nature#2\120#на природе

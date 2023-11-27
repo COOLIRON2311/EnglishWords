@@ -1,0 +1,22 @@
+﻿family#1\468#семья
+boy#1\609#мальчик
+girl#1\610#девочка
+man#1\611#мужчина
+woman#1\612#женщина
+women#1\613#женщины
+husband#1\469#муж
+wife#1\470#жена
+parents#1\471#родители
+father#1\472#отец
+mother#1\473#мать
+children#1\474#дети
+son#1\475#сын
+daughter#1\476#дочь
+brother#1\477#брат
+sister#1\478#сестра
+grandparents#1\479#бабушка и дедушка
+grandmother#1\480#бабушка
+grandfather#1\481#дедушка
+granddaughter#1\482#внучка
+grandson#1\483#внук
+grandchildren#1\484#внуки

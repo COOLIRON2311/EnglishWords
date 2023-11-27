@@ -1,0 +1,25 @@
+﻿clothes#1\179#одежда
+a pair of socks#1\180#пара носков
+a short skirt#1\181#короткая юбка
+cap#1\182#кепка
+comfortable shoes#1\183#удобные ботинки, туфли
+hat#1\184#шапка, шляпа
+in a suit#1\185#в костюме
+light coat#1\186#легкое пальто
+long-sleeved shirt#1\187#с длинным рукавом рубашка
+pull on (my) T-shirt#1\188#натянуть (свою) футболку
+pull on (her) gloves#1\189#надеть (свои) перчатки
+pull on (my) trousers#1\190#надеть, натянуть (свои) брюки
+rain boots#1\191#резиновые сапоги
+shirt and tie#1\192#рубашка и галстук
+silk scarf#1\193#шёлковый шарф
+slip into (his) jacket#1\194#накинуть, надеть (свою) куртку
+slip out of (his) jacket#1\195#скинуть, снять (свою) куртку
+thick sweater#1\196#толстый, плотный свитер
+tight shorts#1\197#тесные шорты
+wedding dress#1\198#свадебное платье
+worn-out jeans#1\199#поношенные джинсы
+leather belt#1\200#кожаный ремень
+wear#1\201#носить
+put … on#1\202#одеть, надеть
+take … off#1\203#снять

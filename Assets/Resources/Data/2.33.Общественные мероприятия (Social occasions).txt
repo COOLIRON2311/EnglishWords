@@ -1,0 +1,13 @@
+﻿occasion#2\749#событие
+bachelor party#2\750#мальчишник
+charity do#2\751#благотворительное мероприятие
+cocktail party#2\752#вечеринка с коктейлем
+concert#2\753#концерт
+family gathering#2\754#семейная встреча
+fancy dress party#2\755#маскарад
+funeral#2\756#похороны
+gig#2\757#рок/джаз-концерт
+hen party#2\758#девичник
+office party#2\759#вечеринка в офисе
+reception#2\760#официальный приём
+wedding#2\761#свадьба

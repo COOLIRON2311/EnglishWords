@@ -1,0 +1,17 @@
+﻿altitude#4\367#высота
+baggage allowance#4\368#разрешенный вес багажа
+baggage reclaim#4\369#получение багажа
+boarding#4\370#посадка; идёт посадка
+book tickets#4\371#заказать билеты
+charter flight#4\372#чартерный рейс
+compensation#4\373#компенсация
+fasten seatbelts#4\374#пристегнуть ремни
+hand luggage#4\375#ручной багаж
+headphones#4\376#наушники
+leave unattended#4\377#оставлять без присмотра
+onboard#4\378#на борту
+overhead#4\379#над головой
+purpose#4\380#цель
+restricted items#4\381#запрещённые предметы
+return journey#4\382#обратный путь
+stopover#4\383#промежуточная пересадка

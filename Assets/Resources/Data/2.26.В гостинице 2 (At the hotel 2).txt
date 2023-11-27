@@ -1,0 +1,23 @@
+﻿hangers#2\564#плечики для одежды
+iron#2\565#утюг
+ashtray#2\566#пепельница
+laundry#2\567#стирка
+outlet#2\568#розетка
+repair#2\569#чинить
+service#2\570#обслуживание
+sheets#2\571#простыни
+sign#2\572#подписывать
+signature#2\573#подпись
+valuables#2\574#ценные вещи
+twin#2\575#номер на двоих
+chambermaid#2\576#горничная
+receptionist#2\577#администратор
+porter#2\578#портье
+lobby#2\579#вестибюль
+luggage#2\580#багаж
+key card#2\581#ключ
+self-catering breakfast#2\582#шведский стол
+air-conditioner#2\583#кондиционер
+cheaper#2\584#дешевле
+better#2\585#лучше
+quieter#2\586#тише

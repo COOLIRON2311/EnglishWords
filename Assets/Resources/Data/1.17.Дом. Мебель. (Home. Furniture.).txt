@@ -1,0 +1,18 @@
+﻿(sit) in the armchair#1\55#(сидеть) в кресле
+in bed#1\56#в кровати
+on the carpet#1\57#на ковре
+on the chair#1\58#на стуле
+in the cupboard#1\59#в шкафу
+in the fridge#1\60#в холодильнике
+in the picture#1\61#на картине
+on the sofa#1\62#на диване
+use the stairs#1\63#пользоваться лестницей
+on the stove#1\64#на плите
+on the table#1\65#на столе
+at the table#1\66#за столом
+in the wardrobe#1\67#в шкафу
+(look) out of the window#1\68#(выглянуть) из окна
+in the kitchen#1\69#на кухне
+in the bedroom#1\70#в спальне
+in the living room#1\71#в гостиной
+in the bathroom#1\72#в ванной

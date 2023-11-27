@@ -1,0 +1,12 @@
+﻿in the bookcase#2\660#в книжном шкафу
+sit in the armchair#2\661#сидеть в кресле
+sit on the chair#2\662#сидеть на стуле
+sleep on the sofa#2\663#спать на диване
+turn on the light#2\664#включить свет
+turn off the light#2\665#выключить свет
+open the curtains#2\666#открыть шторы
+close the curtains#2\667#закрыть шторы
+on the coffee table#2\668#на кофейном (журнальном) столике
+wall unit#2\669#мебельная стенка
+pictures#2\670#картины
+vacuum cleaner#2\671#пылесос

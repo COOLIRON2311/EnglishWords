@@ -1,0 +1,18 @@
+﻿a band of robbers#4\141#банда грабителей
+a board of directors#4\142#совет директоров
+a bunch of bananas#4\143#гроздь бананов
+a bundle of socks#4\144#пачка носков
+a crew of sailors#4\145#экипаж моряков; матросов
+a crowd of people#4\146#толпа людей
+a fleet of cars#4\147#парк автомобилей
+a flight of stairs#4\148#лестничный пролёт
+a flock of tourists#4\149#группа туристов
+a gang of criminals#4\150#шайка преступников
+a handful of coins#4\151#горсть монет
+a herd of animals#4\152#стадо животных
+a pair of shoes#4\153#пара обуви
+a range of mountains#4\154#горная цепь
+a ring of keys#4\155#связка ключей
+a stack of books#4\156#стопка книг
+a team of athletes#4\157#команда спортсменов
+an agenda of tasks#4\158#план; программа мероприятий

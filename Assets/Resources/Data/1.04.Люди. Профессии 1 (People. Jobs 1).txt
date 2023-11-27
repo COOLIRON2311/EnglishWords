@@ -1,0 +1,20 @@
+﻿architect#1\159#архитектор
+athlete#1\160#спортсмен
+director#1\161#директор
+doctor#1\162#врач
+engineer#1\163#инженер
+farmer#1\164#фермер
+instructor#1\165#инструктор
+investor#1\166#инвестор
+listener#1\167#слушатель
+musician#1\168#музыкант
+organiser#1\169#организатор
+painter#1\170#художник, маляр
+patient#1\171#пациент
+player#1\172#игрок
+politician#1\173#политик
+professor#1\174#профессор
+scientist#1\175#ученый
+singer#1\176#певец, певица
+soldier#1\177#солдат
+worker#1\178#рабочий, работник

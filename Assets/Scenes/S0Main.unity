@@ -501,6 +501,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 473566475}
     m_Modifications:
+    - target: {fileID: 1092022614995459230, guid: 6ed06c3c1defd194b9c0526eeb445286, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2245409089246139491, guid: 6ed06c3c1defd194b9c0526eeb445286, type: 3}
       propertyPath: m_Name
       value: Header
@@ -584,6 +588,10 @@ PrefabInstance:
     - target: {fileID: 4994903632826761786, guid: 6ed06c3c1defd194b9c0526eeb445286, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8046625040989032431, guid: 6ed06c3c1defd194b9c0526eeb445286, type: 3}
+      propertyPath: m_Text
+      value: English Words
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

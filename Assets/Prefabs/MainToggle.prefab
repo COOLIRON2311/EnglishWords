@@ -161,6 +161,7 @@ GameObject:
   m_Component:
   - component: {fileID: 496504065306148542}
   - component: {fileID: 841851687370725643}
+  - component: {fileID: 8911269713438251067}
   m_Layer: 5
   m_Name: MainToggle
   m_TagString: Untagged
@@ -237,6 +238,19 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_IsOn: 0
+--- !u!114 &8911269713438251067
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7534299657286186718}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b1346631f623a7e47af20510d2561d97, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  data: {fileID: 11400000, guid: 8c94588a53670c34d9dc0ecbd7998e6d, type: 2}
 --- !u!1 &7705210045179275113
 GameObject:
   m_ObjectHideFlags: 0
@@ -304,10 +318,10 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 9
+    m_FontSize: 8
     m_FontStyle: 0
     m_BestFit: 0
-    m_MinSize: 9
+    m_MinSize: 8
     m_MaxSize: 40
     m_Alignment: 0
     m_AlignByGeometry: 0

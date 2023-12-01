@@ -134,7 +134,7 @@ GameObject:
   - component: {fileID: 8864796}
   - component: {fileID: 8864797}
   m_Layer: 5
-  m_Name: Toggle
+  m_Name: Toggle 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -174,12 +174,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Navigation:
-    m_Mode: 3
+    m_Mode: 4
     m_WrapAround: 0
-    m_SelectOnUp: {fileID: 0}
+    m_SelectOnUp: {fileID: 593771979}
     m_SelectOnDown: {fileID: 0}
     m_SelectOnLeft: {fileID: 0}
-    m_SelectOnRight: {fileID: 0}
+    m_SelectOnRight: {fileID: 1981400707}
   m_Transition: 1
   m_Colors:
     m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
@@ -622,6 +622,17 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_AllowSwitchOff: 0
+--- !u!114 &593771979 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 4644665832609300791, guid: 6ed06c3c1defd194b9c0526eeb445286, type: 3}
+  m_PrefabInstance: {fileID: 1421724775}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &760004727
 GameObject:
   m_ObjectHideFlags: 0
@@ -712,6 +723,7 @@ GameObject:
   - component: {fileID: 887209889}
   - component: {fileID: 887209891}
   - component: {fileID: 887209890}
+  - component: {fileID: 887209892}
   m_Layer: 5
   m_Name: Content
   m_TagString: Untagged
@@ -778,6 +790,20 @@ MonoBehaviour:
   m_ChildScaleWidth: 0
   m_ChildScaleHeight: 0
   m_ReverseArrangement: 0
+--- !u!114 &887209892
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 887209888}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9c03f62859fcef41b6080d33f7f7f10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  data: {fileID: 11400000, guid: 8c94588a53670c34d9dc0ecbd7998e6d, type: 2}
+  mainToggle: {fileID: 841851687370725643, guid: 9ce639c57b1ff5a46beafda5d47a28e3, type: 3}
 --- !u!1 &888673846
 GameObject:
   m_ObjectHideFlags: 0
@@ -1527,6 +1553,17 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1341829277}
   m_CullTransparentMesh: 1
+--- !u!114 &1377929688 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 7778671742165553291, guid: 6ed06c3c1defd194b9c0526eeb445286, type: 3}
+  m_PrefabInstance: {fileID: 1421724775}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &1421724775
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1827,7 +1864,7 @@ GameObject:
   - component: {fileID: 1569180773}
   - component: {fileID: 1569180774}
   m_Layer: 5
-  m_Name: Toggle
+  m_Name: Toggle 3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1867,11 +1904,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Navigation:
-    m_Mode: 3
+    m_Mode: 4
     m_WrapAround: 0
-    m_SelectOnUp: {fileID: 0}
+    m_SelectOnUp: {fileID: 1377929688}
     m_SelectOnDown: {fileID: 0}
-    m_SelectOnLeft: {fileID: 0}
+    m_SelectOnLeft: {fileID: 1981400707}
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
@@ -1988,7 +2025,7 @@ GameObject:
   - component: {fileID: 1981400706}
   - component: {fileID: 1981400707}
   m_Layer: 5
-  m_Name: Toggle
+  m_Name: Toggle 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2028,12 +2065,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Navigation:
-    m_Mode: 3
+    m_Mode: 4
     m_WrapAround: 0
     m_SelectOnUp: {fileID: 0}
     m_SelectOnDown: {fileID: 0}
-    m_SelectOnLeft: {fileID: 0}
-    m_SelectOnRight: {fileID: 0}
+    m_SelectOnLeft: {fileID: 8864797}
+    m_SelectOnRight: {fileID: 1569180774}
   m_Transition: 1
   m_Colors:
     m_NormalColor: {r: 1, g: 1, b: 1, a: 1}

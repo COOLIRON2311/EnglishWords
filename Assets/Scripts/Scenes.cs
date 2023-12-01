@@ -7,5 +7,6 @@ public enum Scenes : int
     S3Results = 3,
     S4Settings = 4,
     S5Help = 5,
-    S6Learn2 = 6
+    S6Learn2 = 6,
+    S7Control2 = 7
 }

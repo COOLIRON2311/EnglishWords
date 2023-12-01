@@ -957,11 +957,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2415164361603708746, guid: 6ed06c3c1defd194b9c0526eeb445286, type: 3}
       propertyPath: m_FontData.m_MinSize
-      value: 9
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 2415164361603708746, guid: 6ed06c3c1defd194b9c0526eeb445286, type: 3}
       propertyPath: m_FontData.m_FontSize
-      value: 9
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 4644665832609300791, guid: 6ed06c3c1defd194b9c0526eeb445286, type: 3}
       propertyPath: m_Navigation.m_SelectOnDown

@@ -28,7 +28,10 @@ public class LearnScript : MonoBehaviour
 
         // Set selection to first button
         var es = GameObject.Find("EventSystem").GetComponent<EventSystem>();
-        es.SetSelectedGameObject(transform.GetChild(0).gameObject);
+        es.SetSelectedGameObject(transform.GetChild(data.S1ItemIndex).gameObject);
+        var scrollbar = GameObject.Find("Scrollbar Vertical").GetComponent<Scrollbar>();
+        scrollbar.value = data.S1ScrollbarValue;
+        scrollbar.onValueChanged.AddListener(v => data.S1ScrollbarValue = v);
     }
 
     void Update()

@@ -8,7 +8,6 @@ using UnityEngine.UI;
 public class LearnScript : MonoBehaviour
 {
     public DataScript data;
-    public Button mainButton;
     // Start is called before the first frame update
     void Start()
     {
@@ -20,7 +19,7 @@ public class LearnScript : MonoBehaviour
         // Create buttons with current level topics
         for (int i = 0; i < data.TopicCount; i++)
         {
-            var b = Instantiate(mainButton);
+            var b = Instantiate(data.mainButton);
             b.GetComponentInChildren<Text>().text = data.Topic(i);
             b.transform.SetParent(transform);
             b.transform.localScale = Vector2.one;

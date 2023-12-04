@@ -5,7 +5,6 @@ using UnityEngine.UI;
 public class Learn2Script : MonoBehaviour
 {
     public DataScript data;
-    public Button mainButton;
     // Start is called before the first frame update
     void Start()
     {
@@ -15,7 +14,7 @@ public class Learn2Script : MonoBehaviour
 
         for (int i = 0; i < data.WordCount; i++)
         {
-            var b = Instantiate(mainButton);
+            var b = Instantiate(data.mainButton);
             b.GetComponentInChildren<Text>().text = data.Word(i);
             b.transform.SetParent(transform);
             b.transform.localScale = Vector2.one;

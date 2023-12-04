@@ -25,6 +25,9 @@ public class DataScript : ScriptableObject
     List<int> testInd = new();
     public bool OptAudioEnRu;
     public int OptTopicName;
+    public int OptVolume = 10;
+
+    public Button mainButton;
 
     public int Level { get => level; }
     public int TopicCount { get => topics.Count; }
@@ -54,6 +57,18 @@ public class DataScript : ScriptableObject
         set => scrollbarValue[level + 4] = value;
     }
 
+    public int OptMainButtonFontSize
+    {
+        get => mainButton.GetComponentInChildren<Text>().fontSize;
+        set => mainButton.GetComponentInChildren<Text>().fontSize = value;
+    }
+
+    public int OptMainButtonHeight
+    {
+        get => GetHeight(mainButton);
+        set => SetHeight(mainButton, value);
+    }
+
     public string Topic(int i)
     {
         string s = topics[i].Remove(0, 2);
@@ -68,6 +83,7 @@ public class DataScript : ScriptableObject
     private void Awake()
     {
         data = new(Resources.LoadAll<TextAsset>("Data").Select(e => e.name));
+        LoadPrefabs();
         SetLevel(level);
     }
 
@@ -95,6 +111,7 @@ public class DataScript : ScriptableObject
     {
         var audio = Camera.main.GetComponent<AudioSource>();
         audio.clip = Resources.Load<AudioClip>("Sounds/" + words[wordIndex].Au);
+        audio.volume = OptVolume / 10.0f;
         audio.Play();
     }
 
@@ -227,6 +244,21 @@ public class DataScript : ScriptableObject
     {
         if (test.Mark > 2)
             results.Add(test);
+    }
+
+    void LoadPrefabs()
+    {
+        mainButton = Resources.Load<GameObject>("Prefabs/MainButton").GetComponent<Button>();
+    }
+
+    public int GetHeight(Component comp) => (int)comp.GetComponent<RectTransform>().sizeDelta.y;
+
+    public void SetHeight(Component comp, int value)
+    {
+        var rt = comp.GetComponent<RectTransform>();
+        var sd = rt.sizeDelta;
+        sd.y = value;
+        rt.sizeDelta = sd;
     }
 }
 

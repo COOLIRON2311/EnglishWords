@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text.RegularExpressions;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -22,7 +23,8 @@ public class DataScript : ScriptableObject
     int ppredInd;
     System.Random r = new();
     List<int> testInd = new();
-
+    public bool OptAudioEnRu;
+    public int OptTopicName;
 
     public int Level { get => level; }
     public int TopicCount { get => topics.Count; }
@@ -52,7 +54,14 @@ public class DataScript : ScriptableObject
         set => scrollbarValue[level + 4] = value;
     }
 
-    public string Topic(int i) => topics[i].Remove(0, 2);
+    public string Topic(int i)
+    {
+        string s = topics[i].Remove(0, 2);
+        if (OptTopicName == 0 || level == 3)
+            return s;
+        var m = Regex.Match(s, @"(\d\d\.)(.*) \((.*)\)");
+        return m.Groups[1].Value + m.Groups[OptTopicName + 1].Value;
+    }
 
     public string Word(int i) => $"{words[i].En} \u2013 {words[i].Ru}";
 
@@ -180,7 +189,7 @@ public class DataScript : ScriptableObject
         else
         {
             labels[0] = TestType == 0 ? words[testInd[0]].En : "[Audio]";
-            if (TestType == 2)
+            if (TestType == 2 || OptAudioEnRu)
                 PlayAudio(testInd[0]);
             for (int i = 1; i < 6; i++)
                 labels[i] = words[testInd[i]].Ru;

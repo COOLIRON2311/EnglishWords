@@ -15,6 +15,13 @@ public class DataScript : ScriptableObject
     [SerializeField] float[] scrollbarValue = new float[8] { 1, 1, 1, 1, 1, 1, 1, 1 };
     public int TestType;
     [SerializeField] string[] testTopics = new string[4] { "1", "1", "1", "1" };
+    [SerializeField] List<TestInfo> results = new();
+    List<int> remainInd = new();
+    TestInfo test;
+    int predInd;
+    int ppredInd;
+    System.Random r = new();
+    List<int> testInd = new();
 
 
     public int Level { get => level; }
@@ -101,6 +108,117 @@ public class DataScript : ScriptableObject
     }
 
     public string TestTopicsToString() => testTopics[level];
+
+    public void InitTest()
+    {
+        words.Clear();
+        foreach (int idx in TestTopics)
+            GetWords(idx, false);
+        remainInd.Clear();
+        remainInd.AddRange(Enumerable.Range(0, words.Count));
+        remainInd.AddRange(Enumerable.Range(0, words.Count));
+        test = new(this);
+        predInd = -1;
+        ppredInd = -1;
+    }
+
+    string GetTitle() => $"Вопрос {test.Answers + 1} из {test.Questions}\nРейтинг: {test.Rating * 100:f2}";
+
+    float GetProgress() => (float)test.Answers / test.Questions;
+
+    public bool NextQuestion(string[] labels, out string title, out float progress)
+    {
+        // 💀-----------------------------------💀
+        //  | Оставь надежду, всяк сюда входящий |
+        // 💀-----------------------------------💀
+        if (test.Answers == test.Questions)
+        {
+            title = $"Итоговый рейтинг: {test.Rating * 100:f2}\nОценка: {test.Mark}";
+            progress = 1;
+            return false;
+        }
+        // (1) определяются значения выходных параметров title и progress
+        title = GetTitle();
+        progress = GetProgress();
+        // (2)  из списка индексов remainInd выбирается очередное слово, которое будет проверяться в создаваемом вопросе;
+        // слово выбирается таким образом, чтобы оно не совпадало со словами, которые проверялись в двух предыдущих вопросах
+        // (если такой выбор возможен);
+        int q = -1;
+        for (int i = 0; i < 10; i++)
+        {
+            q = r.Next(remainInd.Count);
+            if (remainInd[q] != predInd && remainInd[q] != ppredInd)
+                break;
+        }
+        int qInd = remainInd[q];
+        // (3)  выбранное для текущего вопроса слово удаляется из списка remainInd;
+        // кроме того, корректируются переменные ppredInd и predInd;
+        remainInd.RemoveAt(q);
+        ppredInd = predInd;
+        predInd = qInd;
+        // (4) формируется список индексов testInd, содержащий индекс слова для проверки и
+        // индексы пяти вариантов слов для ответов;
+        testInd.Clear();
+        testInd.Add(qInd);
+        for (int i = 0; i < 4; i++)
+        {
+            int idx = r.Next(words.Count);
+            while (testInd.Contains(idx))
+                idx = r.Next(words.Count);
+            testInd.Add(idx);
+        }
+        testInd.Insert(r.Next(1, 6), qInd);
+        // (5) по информации о виде теста и по индексам списка testInd генерируются надписи
+        // label, предназначенные для отображения на сцене; в случае теста третьего вида
+        // дополнительно воспроизводится аудиофайл, соответствующий проверяемому слову
+        if (TestType == 1)
+        {
+            labels[0] = words[testInd[0]].Ru;
+            for (int i = 1; i < 6; i++)
+                labels[i] = words[testInd[i]].En;
+        }
+        else
+        {
+            labels[0] = TestType == 0 ? words[testInd[0]].En : "[Audio]";
+            if (TestType == 2)
+                PlayAudio(testInd[0]);
+            for (int i = 1; i < 6; i++)
+                labels[i] = words[testInd[i]].Ru;
+        }
+        return true;
+    }
+
+    public string CheckAnswer(int ansInd, ref string title, ref float progress)
+    {
+        if (testInd[ansInd] == testInd[0])
+        {
+            test.Answers++;
+            return "";
+        }
+        test.Mistakes++;
+        test.Questions += 2;
+        remainInd.Add(testInd[ansInd]);
+        remainInd.Add(testInd[0]);
+        title = GetTitle();
+        progress = GetProgress();
+        if (TestType == 2)
+            PlayAudio(testInd[ansInd]);
+        if (TestType == 1)
+            return $"{words[testInd[ansInd]].En} \u2013 {words[testInd[ansInd]].Ru}";
+        return $"{words[testInd[ansInd]].Ru} \u2013 {words[testInd[ansInd]].En}";
+    }
+
+    public void AdditionalTestAction()
+    {
+        if (TestType != 1)
+            PlayAudio(testInd[0]);
+    }
+
+    public void SaveResult()
+    {
+        if (test.Mark > 2)
+            results.Add(test);
+    }
 }
 
 [System.Serializable]
@@ -116,3 +234,65 @@ public struct WordInfo
         Ru = w[2];
     }
 }
+
+[System.Serializable]
+public class TestInfo
+{
+    public int Answers;
+    public int Mistakes;
+    public int Questions;
+    public int Type;
+    public int Level;
+    public string Topics;
+    public int WordCount;
+    public string StartTime;
+    public TestInfo(DataScript data)
+    {
+        Answers = 0;
+        Mistakes = 0;
+        Questions = 2 * data.WordCount;
+        Type = data.TestType;
+        Level = data.Level;
+        Topics = data.TestTopicsToString();
+        WordCount = data.WordCount;
+        StartTime = System.DateTime.Now.ToString("yy.MM.dd HH:mm:ss");
+    }
+
+    public TestInfo(string info)
+    {
+        var s = info.Split('|');
+        if (s.Length != 8)
+            return;
+        Answers = int.Parse(s[0]);
+        Mistakes = int.Parse(s[1]);
+        Questions = int.Parse(s[2]);
+        Type = int.Parse(s[3]);
+        Level = int.Parse(s[4]);
+        Topics = s[5];
+        WordCount = int.Parse(s[6]);
+        StartTime = s[7];
+    }
+
+    public override string ToString() => $"{Answers}|{Mistakes}|{Questions}|{Type}|{Level}|{Topics}|{WordCount}|{StartTime}";
+
+    public float Rating
+    {
+        get => (Answers > Mistakes) ? Mathf.Pow((float)(Answers - Mistakes) / Questions, 2) : 0;
+    }
+
+    public int Mark
+    {
+        get
+        {
+            float r = Rating;
+            if (r < 0.6f)
+                return 2;
+            if (r < 0.7f)
+                return 3;
+            if (r < 0.85f)
+                return 4;
+            return 5;
+        }
+    }
+}
+

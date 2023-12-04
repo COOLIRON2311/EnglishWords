@@ -7,6 +7,7 @@ using UnityEngine.UI;
 
 public class HeaderScript : MonoBehaviour
 {
+    public DataScript data;
     Button lBut, rBut;
     /// <summary>
     /// current scene index
@@ -66,4 +67,6 @@ public class HeaderScript : MonoBehaviour
 #endif
         }
     }
+
+    void OnDestroy() => data.SavePrefs();
 }

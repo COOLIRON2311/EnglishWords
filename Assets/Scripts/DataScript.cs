@@ -69,6 +69,8 @@ public class DataScript : ScriptableObject
         set => SetHeight(mainButton, value);
     }
 
+    public int ResultCount { get => results.Count; }
+
     public string Topic(int i)
     {
         string s = topics[i].Remove(0, 2);
@@ -306,6 +308,23 @@ public class DataScript : ScriptableObject
         var cnt = PlayerPrefs.GetInt("ResultsCount", 0);
         for (int i = 0; i < cnt; i++)
             results.Add(new TestInfo(PlayerPrefs.GetString($"Results{i}", "")));
+    }
+
+    public string TestTypeToString(int testType)
+    {
+        return testType switch
+        {
+            0 => "En-Ru",
+            1 => "Ru-En",
+            _ => "Au-Ru",
+        };
+    }
+
+    public string Result(int i)
+    {
+        var r = results[i];
+        return $"{r.StartTime} {r.Level + 1}:{r.Topics} "
+            + $"{TestTypeToString(r.Type)} {r.Rating * 100:f0}\u00A0[{r.Mark}]";
     }
 }
 

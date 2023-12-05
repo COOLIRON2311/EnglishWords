@@ -8,6 +8,9 @@ using UnityEngine.UI;
 public class HeaderScript : MonoBehaviour
 {
     public DataScript data;
+    public Canvas menuCanvas;
+    MenuScript menu;
+    CanvasGroup canvasGroup;
     Button lBut, rBut;
     /// <summary>
     /// current scene index
@@ -19,12 +22,15 @@ public class HeaderScript : MonoBehaviour
         lBut = transform.GetChild(0).GetComponent<Button>();
         rBut = transform.GetChild(1).GetComponent<Button>();
         cIdx = SceneManager.GetActiveScene().buildIndex;
+        if (menuCanvas != null)
+            menu = menuCanvas.GetComponent<MenuScript>();
+        canvasGroup = GameObject.Find("Canvas").GetComponent<CanvasGroup>();
     }
 
     // Update is called once per frame
     void Update()
     {
-        if (!Input.anyKeyDown)
+        if (!Input.anyKeyDown || canvasGroup != null && !canvasGroup.interactable)
             return;
 
         if (Input.GetKeyDown(KeyCode.Escape))
@@ -65,6 +71,11 @@ public class HeaderScript : MonoBehaviour
 #if UNITY_EDITOR
             UnityEditor.EditorApplication.isPlaying = false;
 #endif
+        }
+        else if (index == -2)
+        {
+            if (menu != null)
+                menu.ShowMenu();
         }
     }
 

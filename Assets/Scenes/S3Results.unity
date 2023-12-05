@@ -214,6 +214,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   data: {fileID: 11400000, guid: 8c94588a53670c34d9dc0ecbd7998e6d, type: 2}
+  dialog: {fileID: 1975245815}
 --- !u!1 &220033858
 GameObject:
   m_ObjectHideFlags: 0
@@ -1855,6 +1856,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mainCanvas: {fileID: 900836038}
   menuItem: {fileID: 3420888387458185183, guid: 85c42c58150c1ad459fcf45b79d79458, type: 3}
+  dialogCanvas: {fileID: 1975245813}
 --- !u!1 &1838545943
 GameObject:
   m_ObjectHideFlags: 0

@@ -14,10 +14,16 @@ public class ResultsMenuScript : MenuScript
         base.Start();
     }
 
+    void DisableAll()
+    {
+        es.SetSelectedGameObject(GameObject.Find("HLButton"));
+        DisableMenuItem(0);
+        DisableMenuItem(1);
+    }
+
     void MenuHandler(int n)
     {
         var content = GameObject.Find("Content").transform;
-        var emptyResults = false;
         if (n == 0)
         { // Удаление первого результата
             if (content.childCount > 0)
@@ -25,20 +31,26 @@ public class ResultsMenuScript : MenuScript
             if (content.childCount > 1)
                 es.SetSelectedGameObject(content.GetChild(1).gameObject);
             else
-                emptyResults = true;
+                DisableAll();
         }
         else if (n == 1)
         { // Удаление всех результатов
-            for (int i = 0; i < content.childCount; i++)
-                Destroy(content.GetChild(i).gameObject);
-            emptyResults = true;
+            dialog.ShowDialog(
+                "Подтверждение",
+                "Удалить всю информацию\nо результатах тестирования?",
+                new string[] { "Да", "Нет" },
+                DeleteAllHandler, 1, 1
+            );
         }
-        if (emptyResults)
-        {
-            es.SetSelectedGameObject(GameObject.Find("HLButton"));
-            DisableMenuItem(0);
-            DisableMenuItem(1);
-        }
-        dialog.ShowDialog("Информация", "Команда успешно выполнена");
+    }
+
+    void DeleteAllHandler(int idx)
+    {
+        if (idx == 1)
+            return;
+        var content = GameObject.Find("Content").transform;
+        for (int i = 0; i < content.childCount; i++)
+            Destroy(content.GetChild(i).gameObject);
+        DisableAll();
     }
 }

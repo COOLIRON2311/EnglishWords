@@ -326,6 +326,20 @@ public class DataScript : ScriptableObject
         return $"{r.StartTime} {r.Level + 1}:{r.Topics} "
             + $"{TestTypeToString(r.Type)} {r.Rating * 100:f0}\u00A0[{r.Mark}]";
     }
+
+    public string CompleteResultInfo(int i)
+    {
+        var r = results[i];
+        return $@"Начало тестирования:
+{r.StartTime}
+Вид тестирования: {TestTypeToString(r.Type)}
+Уровень и темы: {r.Level + 1}:{r.Topics}
+Количество слов: {r.WordCount}
+Вопросов в тесте: {r.Questions}
+Правильных ответов: {r.Answers}
+Ошибочных ответов: {r.Mistakes}
+Рейтинг и оценка: {r.Rating * 100:f1} [{r.Mark}]";
+    }
 }
 
 [System.Serializable]

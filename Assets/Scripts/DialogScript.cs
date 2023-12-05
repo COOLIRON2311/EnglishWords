@@ -11,12 +11,13 @@ public class DialogScript : MonoBehaviour
     GameObject mainSelectedObj;
     EventSystem es;
     Transform dialogPanel;
-    Button[] buttons = new Button[4];
+    Button[] buttons = new Button[3];
     int defaultIdx;
     int cancelIdx;
 
     void Start()
     {
+        es = GameObject.Find("EventSystem").GetComponent<EventSystem>();
         dialogPanel = GameObject.Find("DialogPanel").transform;
         for (int i = 0; i < buttons.Length; i++)
             buttons[i] = dialogPanel.GetChild(2).GetChild(i).GetComponent<Button>();
@@ -27,7 +28,7 @@ public class DialogScript : MonoBehaviour
     {
         // (1)
         dialogPanel.GetChild(0).GetComponentInChildren<Text>().text = header;
-        dialogPanel.GetChild(0).GetComponent<Text>().text = text;
+        dialogPanel.GetChild(1).GetComponent<Text>().text = text;
         int btnCount = 0;
         if (buttonText != null)
             btnCount = buttonText.Length;
@@ -64,7 +65,7 @@ public class DialogScript : MonoBehaviour
     {
         var b = buttons[index];
         b.gameObject.SetActive(true);
-        b.GetComponent<Text>().text = buttonText;
+        b.GetComponentInChildren<Text>().text = buttonText;
         b.onClick.RemoveAllListeners();
         b.onClick.AddListener(CloseDialog);
         if (dialogHandler != null)

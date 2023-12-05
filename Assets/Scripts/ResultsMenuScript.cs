@@ -4,10 +4,13 @@ using UnityEngine;
 
 public class ResultsMenuScript : MenuScript
 {
+    public Canvas dialogCanvas;
+    DialogScript dialog;
     // Start is called before the first frame update
     protected new void Start()
     {
         InitMenu(new string[] { "Удалить первый результат", "Удалить все результаты" }, MenuHandler);
+        dialog = dialogCanvas.GetComponent<DialogScript>();
         base.Start();
     }
 
@@ -36,5 +39,6 @@ public class ResultsMenuScript : MenuScript
             DisableMenuItem(0);
             DisableMenuItem(1);
         }
+        dialog.ShowDialog("Информация", "Команда успешно выполнена");
     }
 }

@@ -13,9 +13,24 @@ public class ResultsMenuScript : MenuScript
 
     void MenuHandler(int n)
     {
+        var content = GameObject.Find("Content").transform;
+        var emptyResults = false;
         if (n == 0)
-            Debug.Log("Удален первый результат");
+        { // Удаление первого результата
+            if (content.childCount > 0)
+                Destroy(content.GetChild(0).gameObject);
+            if (content.childCount > 1)
+                es.SetSelectedGameObject(content.GetChild(1).gameObject);
+            else
+                emptyResults = true;
+        }
         else if (n == 1)
-            Debug.Log("Удалены все результаты");
+        { // Удаление всех результатов
+            for (int i = 0; i < content.childCount; i++)
+                Destroy(content.GetChild(i).gameObject);
+            emptyResults = true;
+        }
+        if (emptyResults)
+            es.SetSelectedGameObject(GameObject.Find("HLButton"));
     }
 }

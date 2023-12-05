@@ -31,6 +31,10 @@ public class ResultsMenuScript : MenuScript
             emptyResults = true;
         }
         if (emptyResults)
+        {
             es.SetSelectedGameObject(GameObject.Find("HLButton"));
+            DisableMenuItem(0);
+            DisableMenuItem(1);
+        }
     }
 }

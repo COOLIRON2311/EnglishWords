@@ -338,56 +338,7 @@ MonoBehaviour:
     2 (Adjectives 2)"
   - "1.40.\u0424\u0440\u0430\u0437\u043E\u0432\u044B\u0435 \u0433\u043B\u0430\u0433\u043E\u043B\u044B
     (Phrasal Verbs)"
-  words:
-  - En: wake up
-    Au: 1\263
-    Ru: "\u043F\u0440\u043E\u0441\u043D\u0443\u0442\u044C\u0441\u044F\r"
-  - En: get up
-    Au: 1\264
-    Ru: "\u0432\u0441\u0442\u0430\u0442\u044C \u0441 \u043A\u0440\u043E\u0432\u0430\u0442\u0438\r"
-  - En: have a shower
-    Au: 1\265
-    Ru: "\u043F\u0440\u0438\u043D\u044F\u0442\u044C \u0434\u0443\u0448\r"
-  - En: have breakfast
-    Au: 1\266
-    Ru: "\u0437\u0430\u0432\u0442\u0440\u0430\u043A\u0430\u0442\u044C\r"
-  - En: go to work
-    Au: 1\267
-    Ru: "\u043F\u043E\u0439\u0442\u0438 \u043D\u0430 \u0440\u0430\u0431\u043E\u0442\u0443\r"
-  - En: go for a walk
-    Au: 1\268
-    Ru: "\u043F\u043E\u0439\u0442\u0438 \u043D\u0430 \u043F\u0440\u043E\u0433\u0443\u043B\u043A\u0443\r"
-  - En: have lunch
-    Au: 1\269
-    Ru: "\u043E\u0431\u0435\u0434\u0430\u0442\u044C\r"
-  - En: go shopping
-    Au: 1\270
-    Ru: "\u0445\u043E\u0434\u0438\u0442\u044C \u043F\u043E \u043C\u0430\u0433\u0430\u0437\u0438\u043D\u0430\u043C\r"
-  - En: come home
-    Au: 1\271
-    Ru: "\u043F\u0440\u0438\u0439\u0442\u0438 \u0434\u043E\u043C\u043E\u0439\r"
-  - En: cook dinner
-    Au: 1\272
-    Ru: "\u0433\u043E\u0442\u043E\u0432\u0438\u0442\u044C \u0443\u0436\u0438\u043D\r"
-  - En: have dinner
-    Au: 1\273
-    Ru: "\u0443\u0436\u0438\u043D\u0430\u0442\u044C\r"
-  - En: listen to the radio
-    Au: 1\274
-    Ru: "\u0441\u043B\u0443\u0448\u0430\u0442\u044C \u0440\u0430\u0434\u0438\u043E\r"
-  - En: wash the dishes
-    Au: 1\275
-    Ru: "\u043C\u044B\u0442\u044C \u043F\u043E\u0441\u0443\u0434\u0443\r"
-  - En: watch TV
-    Au: 1\276
-    Ru: "\u0441\u043C\u043E\u0442\u0440\u0435\u0442\u044C \u0442\u0435\u043B\u0435\u0432\u0438\u0437\u043E\u0440\r"
-  - En: take a hot bath
-    Au: 1\277
-    Ru: "\u043F\u0440\u0438\u043D\u044F\u0442\u044C \u0433\u043E\u0440\u044F\u0447\u0443\u044E
-      \u0432\u0430\u043D\u043D\u0443\r"
-  - En: go to bed
-    Au: 1\278
-    Ru: "\u043F\u043E\u0439\u0442\u0438 \u0441\u043F\u0430\u0442\u044C\r"
+  words: []
   itemIndex: 0000000000000000000000000000000000000000000000000000000000000000
   scrollbarValue:
   - 1
@@ -404,4 +355,32 @@ MonoBehaviour:
   - 1
   - 1
   - 1
-  results: []
+  results:
+  - Answers: 36
+    Mistakes: 2
+    Questions: 36
+    Type: 0
+    Level: 0
+    Topics: 1
+    WordCount: 16
+    StartTime: 23.12.05 02:10:56
+  - Answers: 32
+    Mistakes: 0
+    Questions: 32
+    Type: 0
+    Level: 0
+    Topics: 1
+    WordCount: 16
+    StartTime: 23.12.05 19:14:27
+  - Answers: 32
+    Mistakes: 0
+    Questions: 32
+    Type: 0
+    Level: 0
+    Topics: 1
+    WordCount: 16
+    StartTime: 23.12.05 19:15:47
+  OptAudioEnRu: 0
+  OptTopicName: 0
+  OptVolume: 10
+  mainButton: {fileID: 3420888387458185183, guid: 85c42c58150c1ad459fcf45b79d79458, type: 3}
